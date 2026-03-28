@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Talib Ansari! 👋
 
-<!--
-**talibansari147/talibansari147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** and **CMS Specialist** from Karachi, Pakistan. I love building clean, responsive, and user-friendly web experiences.
 
-Here are some ideas to get you started:
+### 🛠 Skills & Technologies
+- **Frontend:** HTML5, CSS3, JavaScript
+- **CMS & E-commerce:** WordPress (Elementor, Customization), Shopify (Store Setup)
+- **Tools:** VS Code, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- 🌐 Build responsive websites using HTML/CSS.
+- 🛍 Create and manage professional Shopify stores.
+- 🎨 Customize WordPress sites for businesses.
+
+### 📫 Let's Connect!
+- 📧 Email: ta4090827@gmail.com
+- 📍 Location: Karachi, Pakistan
